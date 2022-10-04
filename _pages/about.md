@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: about me
+title: About me
 ---
 
 <div class="social-media">

@@ -1,29 +1,44 @@
-- title: home
+- title: Home
   url: /
   external: false
 
-- title: research
-  url: /research/
+# - title: Research
+#   url: /research/
+#   external: false # set true if you using external link, see below
+
+- title: Internships
+  url: /internships/
   external: false # set true if you using external link, see below
 
-- title: publications
-  url: /publications/
+- title: Projects
+  url: /projects/
   external: false # set true if you using external link, see below
 
-- title: resources
-  url: /resources/
-  external: false # set true if you using external link, see below
+# - title: Publications
+#   url: /publications/
+#   external: false # set true if you using external link, see below
 
-- title: posts
+# - title: Resources
+#   url: /resources/
+#   external: false # set true if you using external link, see below
+
+# Example:
+- title: Curriculum Vitae
+  url: /assets/files/mitali_cv.pdf
+  external: false
+  
+- title: Posts
   url: /posts/
   external: false
 
-- title: about
-  url: /about/
-  external: false # set true if you using external link, see below
+# - title: About
+#   url: /about/
+#   external: false # set true if you using external link, see below
   
 
 # Example:
 # - title: github
 #   url: https://github.com/piharpi/jekyll-klise
 #   external: true
+
+

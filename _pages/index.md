@@ -10,5 +10,9 @@ Hi! :wave:
 <br>
 <br>
 
-I am an evolutionary ecologist working on understanding both ultimate and proximate causes of phenotypic variation within and across natural populations. This website is mostly about my science, but I also use it collect techy stuff that I find interesting or useful. Feel free to look around or <a id="link" href="mailto:{{ site.author.email | encode_email }}"> drop me a line </a> if you'd like to have a chat.
+<!-- I am an evolutionary ecologist working on understanding both ultimate and proximate causes of phenotypic variation within and across natural populations. This website is mostly about my science, but I also use it collect techy stuff that I find interesting or useful. Feel free to look around or <a id="link" href="mailto:{{ site.author.email | encode_email }}"> drop me a line </a> if you'd like to have a chat. -->
+I am a forever tech geek and currently pursuing Btech in Electrical Engineering with minors in Computer Science at the Indian Institute of Technology Bombay. My primary interests include areas of systems, cloud computing and machine learning.
+<br>
+<br>
+Dancing and casually playing badminton and TT are my all time stress busters. I absolutely love reading, from thrillers, sci-fi, humour to autobiographies.
 </p>

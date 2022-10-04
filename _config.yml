@@ -1,22 +1,22 @@
 # Site settings
-title: Moritz Lürig | Personal website# site title
+title: Mitali Meratwal | Personal website# site title
 description: >- # site description
-  Personal website of Dr. Moritz Lürig. 
+  Personal website of Mitali Meratwal. 
 lang: en-US # default lang
-timezone: Europe/Berlin # set your timezone
+timezone: Asia/Kolkata # set your timezone
 # image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/mluerig/personal-homepage # site repo [optional]
+repo: https://github.com/mitali72/mitali72.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Moritz Lürig # author name
-  email: moritz.luerig@gmail.com # email adress
-  avatar: /assets/images/moritz_luerig_portrait.jpg # change with your own avatar
+  name: Mitali Meratwal # author name
+  email: mitalimeratwal@gmail.com # email adress
+  avatar: /assets/images/my_pic.jpg # change with your own avatar
 
 
 # URL settings
-url: "https://www.luerig.net" #
+url: "https://mitali72.github.io" #
 baseurl:
 permalink: /posts/:title/
 google_analytics: # leave it blank if not wish

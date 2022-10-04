@@ -1,5 +1,5 @@
 ---
-title: posts archive
+title: Posts Archive
 permalink: /posts/
 layout: page
 excerpt: All posts.

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/
-title: resources
+title: Resources
 ---
 
 <div class="social-media">

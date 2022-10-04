@@ -34,14 +34,14 @@ body[data-theme="dark"] {
 
   // Post
   .page-content {
-    a {
-      /* color: $dark-text-link-blue; */
-      &:hover,
-      &:active,
-      &:focus {
-        color: $dark-text-link-blue-active;
-      }
-    }
+    // a {
+    //   /* color: $dark-text-link-blue; */
+    //   &:hover,
+    //   &:active,
+    //   &:focus {
+    //     color: $dark-text-link-blue-active;
+    //   }
+    // }
 
     /* h3 { */
       /* border-color: $dark-light; */
@@ -97,9 +97,9 @@ body[data-theme="dark"] {
     color: inherit;
     text-decoration-color: $dark-smoke;
 
-    &:hover {
-      color: $dark-text-link-blue;
-    }
+    // &:hover {
+    //   color: $dark-text-link-blue;
+    // }
 
     &:focus {
       outline-color: rgba(255, 82, 119, 0.6);
