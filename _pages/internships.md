@@ -41,11 +41,11 @@ Putting curiosity into action
         <img src="/assets/images/thumbs/wework.jpg"/>
         <div class = "text">
             <h3>Fraazo: Dec'21</h3>
-            <p> Fraazo is one of the best thing that happened in my life <span style="color:red;">&hearts;</span>. Working at Fraazo, a D2C delivery startup for fresh farm produce serving ~200k households was a very exciting experience. The energy and work culture at Fraazo was very different from other internships. I worked there as a backened engineer to develop new internal APIs as well as improve efficiency of existing ones using Ruby on Rails and Active Record Query Interface.
+            <p> Working at Fraazo, a D2C delivery startup for fresh farm produce serving ~200k households was a very exciting experience. The energy and work culture at Fraazo was very different from other internships. I worked there as a backened engineer to develop new internal APIs as well as improve efficiency of existing ones using Ruby on Rails and Active Record Query Interface.
             </p>
         </div> 
     </div>  
 
 </div>
 
-
+<!-- Fraazo is one of the best thing that happened in my life <span style="color:red;">&hearts;</span>.  -->
