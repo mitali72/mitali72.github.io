@@ -14,5 +14,5 @@ Hi! :wave:
 I am a forever tech geek and currently pursuing BTech in Electrical Engineering with a Minor in Computer Science at Indian Institute of Technology Bombay. My primary interests include areas of systems, cloud computing, and machine learning.
 <br>
 <br>
-Dancing and casually playing badminton and table tennis are my all-time stress busters. I absolutely love reading, be it thrillers, sci-fi, humour, or autobiographies.
+Dancing and casually playing badminton or table tennis are my all-time stress busters. I absolutely love reading, be it thrillers, sci-fi, humour, or autobiographies.
 </p>
