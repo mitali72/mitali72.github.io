@@ -12,10 +12,10 @@ Some cool projects
 
 ## Interests
 
-I am interested in areas of systems, cloud and serverless computing, virtualization, machine learning and intersection of these. Currently, I am doing Research and Development under on performance characterization of software assisted GPU scheduling and scheduling in FaaS platforms for GPU functions with variants.
+I am interested in areas of systems, cloud and serverless computing, virtualization, machine learning, and the intersection of these. Currently, I am doing Research and Development on performance characterization of software-assisted GPU scheduling and scheduling in FaaS platforms for GPU functions with variants.
 
 
-I am also working in areas of speech processing, improving the preprocessing stages that heavily affect accuracy and model design decisions of ML based speech applications.
+I am also working in areas of speech processing, improving the preprocessing stages that heavily affect the accuracy and model design decisions of ML-based speech applications.
 
 ## Some cool projects
 
