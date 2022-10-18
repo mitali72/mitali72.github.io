@@ -39,7 +39,7 @@ I am also working in areas of speech processing, improving the preprocessing sta
 			<img src="/assets/images/thumbs/btp.png" />
 			<div class="text">
 			<h3>Speech processing</h3>
-			<p>As part of my B.Tech. Project with <a href = "https://www.ee.iitb.ac.in/wiki/faculty/prao" style="color:#ff2957;">Prof. Preeti Rao</a>, I am working towards testing the existing methods for preprocessing pipeline on news broadcast audios of low resource languages and improving them for use in ML based speech to text translation models</p>
+			<p>As part of my BTP with <a href = "https://www.ee.iitb.ac.in/wiki/faculty/prao" style="color:#ff2957;">Prof. Preeti Rao</a>, I am working towards testing the existing methods for preprocessing pipelines on news broadcast audios of low-resource languages and improving them for use in ML-based speech-to-text translation models.</p>
 			</div>
 		</div>
 	<!-- </a> -->
@@ -57,7 +57,7 @@ I am also working in areas of speech processing, improving the preprocessing sta
 			<img src="/assets/images/thumbs/sedrica_logo.jpeg" />
 			<div class="text">
 			<h3>SElf DRiving CAr</h3>
-			<p>Sedrica is a student led technical team developing India's first self driving car with level 5 autonomy. I worked in the computer vision subsystem for about a year and developed a multi-task learning model for jointly performing object detection and road segmentation and significantly reducing computation costs on limited GPU memory.</p>
+			<p>Sedrica is a student-led technical team developing India's first self-driving car with level 5 autonomy. I worked in the computer vision subsystem for about a year and developed a multi-task learning model for jointly performing object detection and road segmentation and significantly reducing computation costs on limited GPU memory.</p>
 			</div>
 
 		</div>
