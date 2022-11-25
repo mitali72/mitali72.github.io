@@ -12,7 +12,7 @@ Some cool projects
 
 ## Interests
 
-I am interested in areas of systems, cloud and serverless computing, virtualization, machine learning, and the intersection of these. Currently, I am doing Research and Development on performance characterization of software-assisted GPU scheduling and scheduling in FaaS platforms for GPU functions with variants.
+I am interested in areas of systems, cloud and serverless computing, machine learning, and the intersection of these. Currently, I am doing Research and Development on performance characterization of software-assisted GPU scheduling and scheduling in FaaS platforms for GPU functions with variants.
 
 
 I am also working in areas of speech processing, improving the preprocessing stages that heavily affect the accuracy and model design decisions of ML-based speech applications.
@@ -30,7 +30,6 @@ I am also working in areas of speech processing, improving the preprocessing sta
 			<h3>Performance characterization of GPU multiplexing using MPS</h3>
 			<p>I am working with <a href = "https://www.cse.iitb.ac.in/~puru/" style="color:#ff2957;">Prof. Puru</a> and <a href = "https://www.cse.iitb.ac.in/~umesh/index.html" style="color:#ff2957;">Prof. Umesh Bellur</a> on empirical analysis of NVIDIAs MPS enabled GPU multiplexing and benchmarking interference effects of MPS when co-locating multiple processes on GPU.</p>
 			</div>
-            <!-- <p>I recently started working with Prof. Puru and Prof Umesh Bellur on GPU multiplexing for FaaS platforms.</p> -->
 		</div>
 	<!-- </a> -->
 	
@@ -38,8 +37,8 @@ I am also working in areas of speech processing, improving the preprocessing sta
 		<div class="container-item-intern">
 			<img src="/assets/images/thumbs/btp.png" />
 			<div class="text">
-			<h3>Speech processing</h3>
-			<p>As part of my BTP with <a href = "https://www.ee.iitb.ac.in/wiki/faculty/prao" style="color:#ff2957;">Prof. Preeti Rao</a>, I am working towards testing the existing methods for preprocessing pipelines on news broadcast audios of low-resource languages and improving them for use in ML-based speech-to-text translation models.</p>
+			<h3>Speech-text alignment</h3>
+			<p>As part of my BTP with <a href = "https://www.ee.iitb.ac.in/wiki/faculty/prao" style="color:#ff2957;">Prof. Preeti Rao</a>, I am working towards testing the existing methods for preprocessing pipelines on news broadcast audios of low-resource languages and improving them for use in ML-based speech-to-text translation models. We implement approximate string-matching algorithms to find string similarity.</p>
 			</div>
 		</div>
 	<!-- </a> -->
