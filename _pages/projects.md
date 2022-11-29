@@ -16,7 +16,7 @@ I am interested in areas of systems, cloud and serverless computing, machine lea
 
 
 I am also working in areas of speech processing, improving the preprocessing stages that heavily affect the accuracy and model design decisions of ML-based speech applications.
-
+<!-- Here is a non-exhausitve list of some projects I have worked on. Checkout my <a href = "https://github.com/mitali72/mitali72.github.io" style="color:#ff2957;">github profile</a> for complete list. -->
 ## Some cool projects
 
 > Ongoing
@@ -38,7 +38,7 @@ I am also working in areas of speech processing, improving the preprocessing sta
 			<img src="/assets/images/thumbs/btp.png" />
 			<div class="text">
 			<h3>Speech-text alignment</h3>
-			<p>As part of my BTP with <a href = "https://www.ee.iitb.ac.in/wiki/faculty/prao" style="color:#ff2957;">Prof. Preeti Rao</a>, I am working towards testing the existing methods for preprocessing pipelines on news broadcast audios of low-resource languages and improving them for use in ML-based speech-to-text translation models. We implement approximate string-matching algorithms to find string similarity.</p>
+			<p>As part of my BTP with <a href = "https://www.ee.iitb.ac.in/wiki/faculty/prao" style="color:#ff2957;">Prof. Preeti Rao</a>, I am working towards evaluating the methods for preprocessing broadcast news audio of low-resource languages and improving them for use in ML-based speech-to-text translation models. We implement approximate string-matching algorithms to find string similarity.</p>
 			</div>
 		</div>
 	<!-- </a> -->
@@ -125,7 +125,7 @@ I am also working in areas of speech processing, improving the preprocessing sta
 
     <!-- <a href="/projects/aoa/"> -->
 		<div class="container-item-intern">
-			<img src="/assets/images/thumbs/aoa.png" width="100%" height="190px"/>
+			<img src="/assets/images/thumbs/aoa.png" width="120%" height="220px"/>
 			<div class="text">
 			<h3>The Tracking and Navigation Challenge</h3>
 			<p>Under Autumn of Automation, UMIC IIT Bombay, I programmed a bot with ROS to solve a perfect maze while avoiding obstacles in the path. The problem statement also required the bot to recognize letters on the wall and permute a code to crack the safe.</p>
@@ -139,7 +139,7 @@ I am also working in areas of speech processing, improving the preprocessing sta
 
     <!-- <a href="/projects/edl/"> -->
 		<div class="container-item-intern">
-			<img src="/assets/images/thumbs/pof.png" width="100%" height="190px" />
+			<img src="/assets/images/thumbs/pof.png" width="150%" height="250px" />
 			<div class="text">
 			<h3>Low cost POF link</h3>
 			<p>In this project, we built and tested Polymer Optical Fibre offering a lightweight, low-cost and broad bandwidth as an alternative to glass optical fibers for digital transmission across a length of about 10m and achieving data rates of 10Mbp. We designed a PRBS transmitter and trans-impedance amplifier-based receiver on PCB.</p>
