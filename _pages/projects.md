@@ -56,7 +56,7 @@ I am also working in areas of speech processing, improving the preprocessing sta
 			<img src="/assets/images/thumbs/sedrica2.jpeg" />
 			<div class="text">
 			<h3>SeDriCa</h3>
-			<p><a href = "" style="color:#ff2957;">Sedrica</a> is a student-led technical team developing India's first self-driving car with level 5 autonomy. I worked in the computer vision subsystem for about a year and developed a multi-task learning model for jointly performing object detection and road segmentation. We significantly reduced computation costs on limited GPU memory using this common backbone and multi-head design.</p>
+			<p><a href = "https://umic-iitb.github.io" style="color:#ff2957;">Sedrica</a> is a student-led technical team developing India's first self-driving car with level 5 autonomy. I worked in the computer vision subsystem for about a year and developed a multi-task learning model for jointly performing object detection and road segmentation. We significantly reduced computation costs on limited GPU memory using this common backbone and multi-head design.</p>
 			</div>
 
 		</div>
