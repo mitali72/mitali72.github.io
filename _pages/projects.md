@@ -16,7 +16,7 @@ I am interested in areas of systems, cloud and serverless computing, machine lea
 
 
 I am also working in areas of speech processing, improving the preprocessing stages that heavily affect the accuracy and model design decisions of ML-based speech applications.
-<!-- Here is a non-exhausitve list of some projects I have worked on. Checkout my <a href = "https://github.com/mitali72/mitali72.github.io" style="color:#ff2957;">github profile</a> for complete list. -->
+<!-- Here is a non-exhausitve list of some projects I have worked on. Checkout my <a href = "https://github.com/mitali72/mitali72.github.io" style="color:#FFD700;">github profile</a> for complete list. -->
 ## Some cool projects
 
 > Ongoing
@@ -28,7 +28,7 @@ I am also working in areas of speech processing, improving the preprocessing sta
 			<img src="/assets/images/thumbs/rnd2.png" />
 			<div class="text">
 			<h3>Performance characterization of GPU multiplexing using MPS</h3>
-			<p>I am working with <a href = "https://www.cse.iitb.ac.in/~puru/" style="color:#ff2957;">Prof. Puru</a> and <a href = "https://www.cse.iitb.ac.in/~umesh/index.html" style="color:#ff2957;">Prof. Umesh Bellur</a> on empirical analysis of NVIDIAs MPS enabled GPU multiplexing and benchmarking interference effects of MPS when co-locating multiple processes on GPU.</p>
+			<p>I am working with <a href = "https://www.cse.iitb.ac.in/~puru/" style="color:#FFD700;">Prof. Puru</a> and <a href = "https://www.cse.iitb.ac.in/~umesh/index.html" style="color:#FFD700;">Prof. Umesh Bellur</a> on empirical analysis of NVIDIAs MPS enabled GPU multiplexing and benchmarking interference effects of MPS when co-locating multiple processes on GPU.</p>
 			</div>
 		</div>
 	<!-- </a> -->
@@ -38,7 +38,7 @@ I am also working in areas of speech processing, improving the preprocessing sta
 			<img src="/assets/images/thumbs/btp.png" />
 			<div class="text">
 			<h3>Speech-text alignment</h3>
-			<p>As part of my BTP with <a href = "https://www.ee.iitb.ac.in/wiki/faculty/prao" style="color:#ff2957;">Prof. Preeti Rao</a>, I am working towards evaluating the methods for preprocessing broadcast news audio of low-resource languages and improving them for use in ML-based speech-to-text translation models. We implement approximate string-matching algorithms to find string similarity.</p>
+			<p>As part of my BTP with <a href = "https://www.ee.iitb.ac.in/wiki/faculty/prao" style="color:#FFD700;">Prof. Preeti Rao</a>, I am working towards evaluating the methods for preprocessing broadcast news audio of low-resource languages and improving them for use in ML-based speech-to-text translation models. We implement approximate string-matching algorithms to find string similarity.</p>
 			</div>
 		</div>
 	<!-- </a> -->
@@ -56,7 +56,7 @@ I am also working in areas of speech processing, improving the preprocessing sta
 			<img src="/assets/images/thumbs/sedrica2.jpeg" />
 			<div class="text">
 			<h3>SeDriCa</h3>
-			<p><a href = "https://umic-iitb.github.io" style="color:#ff2957;">Sedrica</a> is a student-led technical team developing India's first self-driving car with level 5 autonomy. I worked in the computer vision subsystem for about a year and developed a multi-task learning model for jointly performing object detection and road segmentation. We significantly reduced computation costs on limited GPU memory using this common backbone and multi-head design.</p>
+			<p><a href = "https://umic-iitb.github.io" style="color:#FFD700;">Sedrica</a> is a student-led technical team developing India's first self-driving car with level 5 autonomy. I worked in the computer vision subsystem for about a year and developed a multi-task learning model for jointly performing object detection and road segmentation. We significantly reduced computation costs on limited GPU memory using this common backbone and multi-head design.</p>
 			</div>
 
 		</div>
@@ -67,7 +67,7 @@ I am also working in areas of speech processing, improving the preprocessing sta
 			<img src="/assets/images/thumbs/asr2.png" />
 			<div class="text">
 			<h3>Automatic Speech Recognition</h3>
-            <p>As part of my course work CS753 - Automatic Speech Recognition under Hacker role, we implemented the paper <a href = "https://arxiv.org/pdf/2108.03256.pdf" style="color:#ff2957;">Right2Talk</a> on main speaker identification and localization using audio-visual transformers. I also performed transfer learning on the Coqui English STT model for building ASR systems for Indian languages on extremely small datasets.
+            <p>As part of my course work CS753 - Automatic Speech Recognition under Hacker role, we implemented the paper <a href = "https://arxiv.org/pdf/2108.03256.pdf" style="color:#FFD700;">Right2Talk</a> on main speaker identification and localization using audio-visual transformers. I also performed transfer learning on the Coqui English STT model for building ASR systems for Indian languages on extremely small datasets.
 			</p>
 			
 

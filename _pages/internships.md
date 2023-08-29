@@ -17,7 +17,7 @@ Putting curiosity into action
         
         <div class = "text">
             <h3>Microsoft: May'22 - July'22</h3>
-            <p> I worked with Digital Security and Resilience team at Microsoft India on intelligent attribution of control failures. My work involved querying millions of data records for dynamic feature extraction, designing and implementing a scoring heuristic, and finally, deployment on a queue-triggered Azure Function App. I recently wrote a <a href="https://www.ee.iitb.ac.in/course/~eesa/blogs/EEntern/eeb1.html" style="color:#ff2957;">blog </a> on my interview and internship experiences for EE Student Association website.
+            <p> I worked with Digital Security and Resilience team at Microsoft India on intelligent attribution of control failures. My work involved querying millions of data records for dynamic feature extraction, designing and implementing a scoring heuristic, and finally, deployment on a queue-triggered Azure Function App. I recently wrote a <a href="https://www.ee.iitb.ac.in/course/~eesa/blogs/EEntern/eeb1.html" style="color:#FFD700;">blog </a> on my interview and internship experiences for EE Student Association website.
             </p>
         </div> 
     </div>  

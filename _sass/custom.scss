@@ -166,8 +166,8 @@
 .btn-group button {
 	border-radius: 10px;
 	background-color: white; /* Green background */
-	border: 1.5px solid #ff2957; /* Green border */
-	color: #ff2957; /* White text */
+	border: 1.5px solid #FFD700; /* Green border */
+	color: #FFD700; /* White text */
 	padding: 10px 24px; /* Some padding */
 	cursor: pointer; /* Pointer/hand icon */
 	float: left; /* Float the buttons side by side */
@@ -192,7 +192,7 @@
   
   /* Add a background color on hover */
   .btn-group button:hover {
-	background-color: #ff2957;
+	background-color: #FFD700;
 	color: white !important;
   }
 
@@ -217,11 +217,11 @@ body[data-theme="dark"] {
 	} 
 	.btn-group button{
 		background-color: #131418;
-		color: #ff2957;
+		color: #FFD700;
 	}
 
 	.btn-group button:hover {
-		background-color: #ff2957;
+		background-color: #FFD700;
 		color: white !important;
 	  }
 	
